@@ -1,0 +1,9 @@
+
+Q
+java:S1854%"5Remove this useless assignment to local variable "a".(âæÖ"8õ“Ä1
+B
+java:S1481%"&Remove this unused "a" local variable.(âæÖ"8ü“Ä1
+k
+java:S1128"NRemove this unused import 'com.example.demo.security.Demo4ConditionEvaluator'.(¬«ÀÎ8ÜØ×1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8ÜØ×1

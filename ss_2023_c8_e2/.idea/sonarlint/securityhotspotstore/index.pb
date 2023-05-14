@@ -7,3 +7,5 @@ n
 >demo/src/main/java/com/example/demo/config/SecurityConfig.java,9\5\955c919da73313e3b6b4e6ca49205f438ce6bbab
 s
 Cdemo/src/main/java/com/example/demo/controllers/DemoController.java,4\e\4e4a7100a71684bf220890559ff9d67865af414e
+y
+Idemo/src/main/java/com/example/demo/security/Demo4ConditionEvaluator.java,b\0\b065df036ff6069dc6268277c2bcb44d1439ba60
